@@ -1,3 +1,4 @@
+// Simple hash that adds up charcodes of chars in key and modulos with size
 const hash = (key, size) => {
 	let hashedKey = 0;
 
