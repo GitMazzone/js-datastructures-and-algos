@@ -1,4 +1,6 @@
 /**
+ * SACRIFICING LOOKUP SPEED IN FAVOR OF INSERTION & DELETION SPEED
+ *
  * Singly linked list has a head and tail
  *    tail.next null
  * Doubly linked list just adds a link to previous node to traverse backwards
